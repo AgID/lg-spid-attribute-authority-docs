@@ -29,7 +29,7 @@ Sommario
 
 `Capitolo 3 Sigle e Riferimenti <sigle-e-riferimenti.rst>`__
 
-`3.1 Riferimenti Normativi `__
+`3.1 Riferimenti Normativi <sigle-e-riferimenti/riferimenti-normativi.rst>`__
 
 `3.2 Standard di riferimento `__
 
