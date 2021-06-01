@@ -21,57 +21,51 @@ Sommario
 
 `2.1 Scopo <introduzione/scopo.rst>`__
 
-`2.2 Struttura 5 <#struttura>`__
+`2.2 Struttura <introduzione/struttura.rst>`__
 
-`2.3 Gruppo di lavoro 5 <#gruppo-di-lavoro>`__
+`2.3 Gruppo di lavoro <introduzione/gruppo-di-lavoro.rst>`__
 
-`2.4 Soggetti destinatari 6 <#soggetti-destinatari>`__
+`2.4 Soggetti destinatari <introduzione/soggetti-destinatari.rst>`__
 
-`Capitolo 3 Sigle e Riferimenti 7 <#sigle-e-riferimenti>`__
+`Capitolo 3 Sigle e Riferimenti <sigle-e-riferimenti.rst>`__
 
-`3.1 Riferimenti Normativi 7 <#riferimenti-normativi>`__
+`3.1 Riferimenti Normativi `__
 
-`3.2 Standard di riferimento 7 <#standard-di-riferimento>`__
+`3.2 Standard di riferimento `__
 
-`3.3 Linee guida di riferimento 7 <#linee-guida-di-riferimento>`__
+`3.3 Linee guida di riferimento `__
 
-`3.4 Termini e definizioni 8 <#termini-e-definizioni>`__
+`3.4 Termini e definizioni `__
 
-`3.5 Acronimi e abbreviazioni 10 <#acronimi-e-abbreviazioni>`__
+`3.5 Acronimi e abbreviazioni `__
 
-`3.6 Basi giuridiche 11 <#basi-giuridiche>`__
+`3.6 Basi giuridiche `__
 
-`Capitolo 4 Descrizione d’insieme 12 <#descrizione-dinsieme>`__
+`Capitolo 4 Descrizione d’insieme <descrizione-dinsieme.rst>`__
 
-`4.1 Attributi qualificati 12 <#attributi-qualificati>`__
+`4.1 Attributi qualificati <descrizione-dinsieme/attributi-qualificati.rst>`__
 
-`4.2 Convenzioni 13 <#convenzioni>`__
+`4.2 Convenzioni <descrizione-dinsieme/convenzioni.rst>`__
 
-`4.3 Attestazione di attributo 13 <#attestazione-di-attributo>`__
+`4.3 Attestazione di attributo <descrizione-dinsieme/attestazione-di-attributo.rst>`__
 
-`4.4 Tipologie di richiesta 14 <#tipologie-di-richiesta>`__
+`4.4 Tipologie di richiesta <descrizione-dinsieme/tipologie-di-richiesta.rst>`__
 
-`4.4.1 Richieste puntuali 15 <#richieste-puntuali>`__
+`4.4.1 Richieste puntuali `__
 
-`4.4.2 Richieste continuative 15 <#richieste-continuative>`__
+`4.4.2 Richieste continuative `__
 
-`Capitolo 5 Specifiche di funzionamento
-17 <#specifiche-di-funzionamento>`__
+`Capitolo 5 Specifiche di funzionamento <specifiche-di-funzionamento.rst>`__
 
-`5.1 Flusso applicativo senza necessità del consenso dell’utente
-17 <#flusso-applicativo-senza-necessità-del-consenso-dellutente>`__
+`5.1 Flusso applicativo senza necessità del consenso dell’utente <specifiche-di-funzionamento/flusso-applicativo-senza-necessità-del-consenso-dellutente.rst>`__
 
-`5.2 Flusso applicativo che richiede il consenso dell’utente
-18 <#flusso-applicativo-che-richiede-il-consenso-dellutente>`__
+`5.2 Flusso applicativo che richiede il consenso dell’utente `__
 
-`5.3 Infrastruttura a chiave pubblica (pki) e trust model
-19 <#infrastruttura-a-chiave-pubblica-pki-e-trust-model>`__
+`5.3 Infrastruttura a chiave pubblica (pki) e trust model `__
 
-`5.4 Servizio di consultazione per l’utente
-19 <#servizio-di-consultazione-per-lutente>`__
+`5.4 Servizio di consultazione per l’utente <specifiche-di-funzionamento/servizio-di-consultazione-per-lutente.rst>`__
 
-`5.5 Registro delle Attribute Authority
-20 <#registro-delle-attribute-authority>`__
+`5.5 Registro delle Attribute Authority <specifiche-di-funzionamento/registro-delle-attribute-authority.rst>`__
 
 .. toctree::
   :maxdepth: 3
