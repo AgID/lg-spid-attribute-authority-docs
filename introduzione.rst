@@ -3,6 +3,8 @@ Introduzione
 
 `Scopo <./introduzione/scopo.rst>`__
 
+`Struttura <./introduzione/struttura.rst>`__
+
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
