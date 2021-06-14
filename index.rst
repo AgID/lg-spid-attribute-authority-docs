@@ -66,17 +66,3 @@ Sommario
 `5.4 Servizio di consultazione per l’utente <specifiche-di-funzionamento/servizio-di-consultazione-per-lutente.rst>`__
 
 `5.5 Registro delle Attribute Authority <specifiche-di-funzionamento/registro-delle-attribute-authority.rst>`__
-
-.. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
-
-  prefazione.rst
-  introduzione.rst
-  sigle-e-riferimenti.rst
-  descrizione-dinsieme.rst
-  specifiche-di-funzionamento.rst
-
-.. |AGID - Agenzia per l'Italia Digitale| image:: ./media/image1.png
-   :width: 2.83897in
-   :height: 0.60107in
