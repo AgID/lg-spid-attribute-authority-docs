@@ -25,7 +25,7 @@ Nel caso di richiesta “sincrona” (cfr. Figura 1):
 
 5. L’AA risponde direttamente al SP fornendo gli attributi richiesti.
 
-.. |image0| image:: ../media/image2.png
+.. |image0| image:: /media/image2.png
    :alt:Figura 1 Flusso di richiesta di attributi qualificati senza consenso o consenso acquisito dal SP.
    :width: 6.21528in
    :height: 4.04861in
