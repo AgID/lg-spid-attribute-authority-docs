@@ -7,7 +7,7 @@ Specifiche di funzionamento
 
 `Registro delle attribute authority <./specifiche-di-funzionamento/registro-delle-attribute-authority.rst>`__
 
-`Flusso applicativo che richiede il consenso utente <./specifiche-di-funzionamento/flusso-applicativo-che-richiede-il-consenso-utente.rst>`__
+`Flusso applicativo che richiede il consenso dell'utente <./specifiche-di-funzionamento/flusso-applicativo-che-richiede-il-consenso-utente.rst>`__
 
 `Infrastruttura a chiave pubblica (pki) e trust-model <./specifiche-di-funzionamento/infrastruttura-a-chiave-pubblica-(pki)-e-trust-model.rst>`__
 
