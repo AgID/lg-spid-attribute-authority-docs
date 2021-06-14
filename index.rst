@@ -31,15 +31,15 @@ Sommario
 
 `3.1 Riferimenti Normativi <sigle-e-riferimenti/riferimenti-normativi.rst>`__
 
-`3.2 Standard di riferimento `__
+`3.2 Standard di riferimento <sigle-e-riferimenti/standard-di-riferimento.rst>`__
 
-`3.3 Linee guida di riferimento `__
+`3.3 Linee guida di riferimento <sigle-e-riferimenti/linee-guida-di-riferimento.rst>`__
 
-`3.4 Termini e definizioni `__
+`3.4 Termini e definizioni <sigle-e-riferimenti/termini-e-definizioni.rst>`__
 
-`3.5 Acronimi e abbreviazioni `__
+`3.5 Acronimi e abbreviazioni <sigle-e-riferimenti/acronimi-e-abbreviazioni.rst>`__
 
-`3.6 Basi giuridiche `__
+`3.6 Basi giuridiche <sigle-e-riferimenti/basi-giuridiche.rst>`__
 
 `Capitolo 4 Descrizione d’insieme <descrizione-dinsieme.rst>`__
 
@@ -51,17 +51,17 @@ Sommario
 
 `4.4 Tipologie di richiesta <descrizione-dinsieme/tipologie-di-richiesta.rst>`__
 
-`4.4.1 Richieste puntuali `__
+`4.4.1 Richieste puntuali <descrizione-dinsieme/richieste-puntuali.rst>`__
 
-`4.4.2 Richieste continuative `__
+`4.4.2 Richieste continuative <descrizione-dinsieme/richieste-continuative.rst>`__
 
 `Capitolo 5 Specifiche di funzionamento <specifiche-di-funzionamento.rst>`__
 
 `5.1 Flusso applicativo senza necessità del consenso dell’utente <specifiche-di-funzionamento/flusso-applicativo-senza-necessità-del-consenso-dellutente.rst>`__
 
-`5.2 Flusso applicativo che richiede il consenso dell’utente `__
+`5.2 Flusso applicativo che richiede il consenso dell’utente <specifiche-di-funzionamento/flusso-applicativo-che-richiede-il-consenso-utente.rst>`__
 
-`5.3 Infrastruttura a chiave pubblica (pki) e trust model `__
+`5.3 Infrastruttura a chiave pubblica (pki) e trust model <specifiche-di-funzionamento/infrastruttura-a-chiave-pubblica-(pki)-e-trust-model.rst>`__
 
 `5.4 Servizio di consultazione per l’utente <specifiche-di-funzionamento/servizio-di-consultazione-per-lutente.rst>`__
 
