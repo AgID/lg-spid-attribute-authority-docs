@@ -1,4 +1,7 @@
 |Sommario|
+==========
+
+`Sommario <./sommario/sommario.rst>`__
 
 .. toctree::
   :maxdepth: 3
