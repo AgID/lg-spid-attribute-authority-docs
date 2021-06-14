@@ -5,7 +5,9 @@ Introduzione
 
 `Struttura <./introduzione/struttura.rst>`__
 
-`Gruppo di Lavoro <./introduzione/gruppo-di-lavoro.rst>`__
+`Gruppo di lavoro <./introduzione/gruppo-di-lavoro.rst>`__
+
+`Soggetti destinatari <./introduzione/soggetti-destinatari.rst>`__
 
 .. toctree::
   :maxdepth: 3
