@@ -1,13 +1,6 @@
 Introduzione
 ============
 
-`Scopo <./introduzione/scopo.rst>`__
-
-`Struttura <./introduzione/struttura.rst>`__
-
-`Gruppo di lavoro <./introduzione/gruppo-di-lavoro.rst>`__
-
-`Soggetti destinatari <./introduzione/soggetti-destinatari.rst>`__
 
 .. toctree::
   :maxdepth: 3
