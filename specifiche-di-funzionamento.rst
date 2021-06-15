@@ -29,7 +29,7 @@ Nel caso di richiesta “sincrona” (cfr. Figura 1):
 
 5. L’AA risponde direttamente al SP fornendo gli attributi richiesti.
 
-.. |image0| image:: ../media/image2.png
+.. |image0| image:: ./media/image2.png
    :alt: Figura 1 Flusso di richiesta di attributi qualificati senza consenso o consenso acquisito dal SP.
    :width: 6.21528in
    :height: 4.04861in
@@ -78,7 +78,7 @@ seguenti comunicazioni via email:
    servizio in rete accessibile tramite SPID per poter eventualmente
    rinnovare il consenso secondo le modalità esposte al §5.3.2.
 
-.. |image0| image:: ../media/image3.png
+.. |image0| image:: ./media/image3.png
    :alt: Figura 2 Flusso di richiesta di attributi qualificati con consenso.
    :width: 6.23958in
    :height: 4.15625in
