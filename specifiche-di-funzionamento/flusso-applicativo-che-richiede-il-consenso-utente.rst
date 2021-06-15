@@ -3,6 +3,8 @@ Flusso applicativo che richiede il consenso dell’utente
 
 |image0|
 
+Figura 2 Flusso di richiesta di attributi qualificati con consenso.
+
 Nel caso di richieste “sincrona” e “asincrona” (cfr. Figura 2):
 
 1. L’utente chiede l’accesso ad un servizio del SP e seleziona l’IDP
