@@ -207,3 +207,8 @@ SPID e con la CIE. Pertanto, la fruizione dei servizi derivanti dalle
 seguenti linee guida devono essere garantiti anche ai cittadini che
 utlizzano la CIE (in seguito, federazione CIE) per l’accesso ai servizi
 in rete.
+
+
+.. forum_italia::
+   :topic_id: 24570
+   :scope: document
