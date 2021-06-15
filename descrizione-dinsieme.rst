@@ -1,17 +1,19 @@
 Descrizione d’insieme
 =====================
 
-`Attestazione di attributo <./descrizione-dinsieme/attestazione-di-attributo.rst>`__
-
 `Attributi qualificati <./descrizione-dinsieme/attributi-qualificati.rst>`__
 
 `Convenzioni <./descrizione-dinsieme/convenzioni.rst>`__
 
-`Richieste continuative <./descrizione-dinsieme/richieste-continuative.rst>`__
+`Attestazione di attributo <./descrizione-dinsieme/attestazione-di-attributo.rst>`__
+
+`Tipologie di richiesta <./descrizione-dinsieme/tipologie-di-richiesta.rst>`__
 
 `Richieste puntuali <./descrizione-dinsieme/richieste-puntuali.rst>`__
 
-`Tipologie di richiesta <./descrizione-dinsieme/tipologie-di-richiesta.rst>`__
+`Richieste continuative <./descrizione-dinsieme/richieste-continuative.rst>`__
+
+
 
 .. toctree::
   :maxdepth: 3
