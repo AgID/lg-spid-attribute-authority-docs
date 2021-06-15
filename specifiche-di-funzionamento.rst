@@ -146,3 +146,8 @@ relativo documento OpenAPI.
 Per la AA che gestisce le deleghe, amministrazioni di sostegno e tutele
 è reso disponibile un apposito metadata la cui struttura è pubblicata da
 AgID con apposito Avviso.
+
+
+.. forum_italia::
+   :topic_id: 24572
+   :scope: document
