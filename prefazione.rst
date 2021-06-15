@@ -22,3 +22,6 @@ la cui interpretazione è descritta di seguito.
    implicazione la specifica.
 
 
+.. forum_italia::
+   :topic_id: 24568
+   :scope: document
