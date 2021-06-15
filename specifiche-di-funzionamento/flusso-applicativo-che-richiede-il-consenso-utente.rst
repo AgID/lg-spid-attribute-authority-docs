@@ -1,6 +1,8 @@
 Flusso applicativo che richiede il consenso dell’utente
 =======================================================
 
+|image0|
+
 Nel caso di richieste “sincrona” e “asincrona” (cfr. Figura 2):
 
 1. L’utente chiede l’accesso ad un servizio del SP e seleziona l’IDP
@@ -38,6 +40,6 @@ seguenti comunicazioni via email:
    rinnovare il consenso secondo le modalità esposte al §5.3.2.
 
 .. |image0|image:: ./media/image3.png
-   :alt:Figura 2 Flusso di richiesta di attributi qualificati con consenso.
+   :alt: Figura 2 Flusso di richiesta di attributi qualificati con consenso.
    :width: 6.23958in
    :height: 4.15625in
