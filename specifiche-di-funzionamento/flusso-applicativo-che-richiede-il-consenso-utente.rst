@@ -39,7 +39,7 @@ seguenti comunicazioni via email:
    servizio in rete accessibile tramite SPID per poter eventualmente
    rinnovare il consenso secondo le modalità esposte al §5.3.2.
 
-.. |image0|image:: ./media/image3.png
+.. |image0| image:: ../media/image3.png
    :alt: Figura 2 Flusso di richiesta di attributi qualificati con consenso.
    :width: 6.23958in
    :height: 4.15625in
