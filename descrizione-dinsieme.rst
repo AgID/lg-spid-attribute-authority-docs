@@ -228,3 +228,7 @@ alla minimizzazione dei dati personali. Per tale motivo è sempre
 richiesto nel rispetto di quanto previsto dai considerando 71, 78 e 156
 e dall’articolo 5, comma 1,lett. c) del Regolamento GDPR.
 
+
+.. forum_italia::
+   :topic_id: 24571
+   :scope: document
