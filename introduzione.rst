@@ -3,7 +3,7 @@ Introduzione
 
 
 Scopo
-=====
+-----
 
 La presente **Linea guida - Regola Tecnica,** nel seguito indicata come
 LG, ha lo scopo di definire i requisiti per la realizzazione
@@ -19,7 +19,7 @@ dell’Amministrazione Digitale».
 
 
 Struttura
-=========
+---------
 
 Parte integrante della presente LG sono i seguenti allegati e tecnici
 che definiscono le specifiche tecniche implementative che possono
@@ -37,7 +37,7 @@ nel rispetto delle presenti LG.
 
 
 Gruppo di lavoro
-================
+----------------
 
 La redazione del presente documento è stata curata dal gruppo di lavoro
 AgID con la collaborazione del Ministero per l’Innovazione tecnologica e
@@ -45,7 +45,7 @@ la la digitalizzazione.
 
 
 Soggetti destinatari
-====================
+--------------------
 
 I soggetti destinatari delle presenti LG sono i soggetti gestori di
 attributi qualificati, ovvero, potenzialmente, tutti i soggetti che in

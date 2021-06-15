@@ -3,7 +3,7 @@ Descrizione d’insieme
 
 
 Attributi qualificati
-=====================
+---------------------
 
 Un attributo qualificato descrive una proprietà di un’identità. Esso si
 definisce qualificato perché è attestato da soggetto cui la legge
@@ -95,7 +95,7 @@ attributi qualificati.
 
 
 Convenzioni
-===========
+-----------
 
 I Gestori di attributi qualificati (AA) ai sensi dell’articolo 4 lettera
 c) del DPCM 26 ottobre 2014, stipulano apposita Convenzione con
@@ -103,7 +103,7 @@ l’Agenzia.
 
 
 Attestazione di attributo
-=========================
+-------------------------
 
 Le attestazioni di attributo prodotte da un’AA servono ad attestare uno
 o più attributi qualificati riguardo ad una persona fisica o giuridica,
@@ -131,7 +131,7 @@ finalità ultronee a quelle indicate nelle stesse.
 
 
 Tipologie di richiesta
-======================
+----------------------
 
 Le singole AA definiscono nelle proprie specifiche OAS3, conformi alle
 indicazioni delle LL.GG. Interoperabilità, emanate da Agid, quali siano

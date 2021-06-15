@@ -3,7 +3,7 @@ Specifiche di funzionamento
 
 
 Flusso applicativo senza necessità del consenso dell’utente
-===========================================================
+-----------------------------------------------------------
 
 Tale flusso si applica anche nel caso in cui il consenso dell’utente sia
 già stato acquisito dal SP.
@@ -36,7 +36,7 @@ Nel caso di richiesta “sincrona” (cfr. Figura 1):
 
 
 Flusso applicativo che richiede il consenso dell’utente
-=======================================================
+-------------------------------------------------------
 
 |image0|
 
@@ -85,7 +85,7 @@ seguenti comunicazioni via email:
 
 
 Infrastruttura a chiave pubblica (pki) e trust model
-====================================================
+----------------------------------------------------
 
 È istituita presso AgID un’infrastruttura a chiave pubblica (PKI)
 gerarchica, mediante una CA radice (root CA). Tramite detto sistema di
@@ -94,7 +94,7 @@ la controparte.
 
 
 Servizio di consultazione per l’utente
-======================================
+--------------------------------------
 
 Nel caso in cui sia previsto per norma e nel caso in cui siano
 consentite richieste di attributi continuative per mezzo di consenso di
@@ -131,7 +131,7 @@ essere esposto all’utente tramite applicazione web mobile.
 
 
 Registro delle Attribute Authority
-==================================
+----------------------------------
 
 L’articolo 16, comma 2, decreto del Presidente del Consiglio dei
 ministri 24 ottobre 2014 prevede che “L'Agenzia inserisce in un apposito

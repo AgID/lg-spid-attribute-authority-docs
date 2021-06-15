@@ -3,7 +3,7 @@ Sigle e Riferimenti
 
 
 Riferimenti Normativi
-=====================
+---------------------
 
 Sono riportati di seguito gli atti normativi di riferimento del presente
 documento.
@@ -14,7 +14,7 @@ documento.
 
 
 Standard di riferimento
-=======================
+-----------------------
 
 Sono riportati di seguito gli standard tecnici di riferimento per
 l’applicazione del presente documento.
@@ -27,7 +27,7 @@ l’applicazione del presente documento.
 
 
 Linee guida di riferimento
-==========================
+--------------------------
 
 Di seguito sono elencate le Linee Guida e le Regole Tecniche emesse
 dall’AGID che verranno richiamate nel presente documento:
@@ -43,7 +43,7 @@ dall’AGID che verranno richiamate nel presente documento:
 
 
 Termini e definizioni
-=====================
+---------------------
 
 Ai fini delle presenti Linee guida, oltre ad applicarsi le definizioni
 di cui all’articolo 1 del CAD, si intende per:
@@ -100,7 +100,7 @@ di cui all’articolo 1 del CAD, si intende per:
 
 
 Acronimi e abbreviazioni
-========================
+------------------------
 
 Di seguito si riportano gli acronimi e le abbreviazioni che verranno
 utilizzati nella presente Linee Guida:
@@ -162,7 +162,7 @@ utilizzati nella presente Linee Guida:
 
 
 Basi giuridiche
-===============
+---------------
 
 L’articolo 1, comma 1, lett. m), decreto del Presidente del Consiglio
 dei ministri 24 ottobre 2014 definisce i gestori di attributi
