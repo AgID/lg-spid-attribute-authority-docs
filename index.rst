@@ -23,6 +23,12 @@ lettera m) del DPCM 24 ottobre 2014 (GU n.285 del 9­12­2014)
   sigle-e-riferimenti.rst
   descrizione-dinsieme.rst
   specifiche-di-funzionamento.rst
+ 
+.. seealso::
+   `Allegato tecnico OAS3 <LLGG_Attribute_Authority–Allegato_tecnico_OAS3.pdf>`_
+      Allegato tecnico OAS3.
+   `Allegato tecnico SAML <LLGG_Attribute_Authority–Allegato_tecnico_SAML.pdf>`_
+      Allegato tecnico SAML.
 
 .. |AGID - Agenzia per l'Italia Digitale| image:: ./media/image1.png
    :width: 2.83897in
