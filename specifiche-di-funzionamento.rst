@@ -8,7 +8,7 @@ Flusso applicativo senza necessità del consenso dell’utente
 Tale flusso si applica anche nel caso in cui il consenso dell’utente sia
 già stato acquisito dal SP.
 
-|image0|
+|image2|
 
 Figura 1 Flusso di richiesta di attributi qualificati senza consenso o
 consenso acquisito dal SP.
@@ -29,7 +29,7 @@ Nel caso di richiesta “sincrona” (cfr. Figura 1):
 
 5. L’AA risponde direttamente al SP fornendo gli attributi richiesti.
 
-.. |image0| image:: ./media/image2.png
+.. |image2| image:: ./media/image2.png
    :alt: Figura 1 Flusso di richiesta di attributi qualificati senza consenso o consenso acquisito dal SP.
    :width: 6.21528in
    :height: 4.04861in
@@ -38,7 +38,7 @@ Nel caso di richiesta “sincrona” (cfr. Figura 1):
 Flusso applicativo che richiede il consenso dell’utente
 -------------------------------------------------------
 
-|image0|
+|image3|
 
 Figura 2 Flusso di richiesta di attributi qualificati con consenso.
 
@@ -78,7 +78,7 @@ seguenti comunicazioni via email:
    servizio in rete accessibile tramite SPID per poter eventualmente
    rinnovare il consenso secondo le modalità esposte al §5.3.2.
 
-.. |image0| image:: ./media/image3.png
+.. |image3| image:: ./media/image3.png
    :alt: Figura 2 Flusso di richiesta di attributi qualificati con consenso.
    :width: 6.23958in
    :height: 4.15625in
